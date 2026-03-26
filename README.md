@@ -12,14 +12,6 @@
 
 ---
 
-### 💼 Experience
-**Junior Software Engineer Intern – Cravita Technologies (Pune)**  
-📅 June 2025 – Present  
-- Developed backend features using **Java & OOP principles**
-- Built and tested **REST APIs**
-- Optimized **SQL queries for performance**
-- Collaborated on debugging and code reviews
-- Used **ChatGPT for debugging & optimization**
 
 ---
 
