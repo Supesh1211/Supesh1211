@@ -103,5 +103,15 @@
 
 ---
 
-### ✨ Quote
-> "Code. Learn. Build. Repeat."
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Scalable+Applications;Always+Learning+New+Things🚀" />
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
