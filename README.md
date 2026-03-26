@@ -7,7 +7,6 @@
 - 🎓 Computer Science Graduate (B.E - CGPA: 7.16)
 - 💻 Java Full Stack Developer with strong foundation in **Core Java, Spring Boot & REST APIs**
 - ⚡ Experienced in building **scalable backend systems & full-stack applications**
-- 🤖 Skilled in **AI-assisted development using ChatGPT**
 - 🎯 Seeking an **Entry-Level Software Engineer Role**
 
 ---
