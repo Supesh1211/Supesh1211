@@ -10,7 +10,6 @@
 - 🎯 Seeking an **Entry-Level Software Engineer Role**
 
 ---
----
 
 ### 🌐 Connect with me:
 <p align="left">
